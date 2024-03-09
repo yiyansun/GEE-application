@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 postgis-workshop/
+workshop/
 W01. Introduction.pdf
 W02. SQL.pdf
 W03. PostGIS I.pdf
